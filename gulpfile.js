@@ -29,3 +29,5 @@ gulp.task('watch-css',function(){
         //gulp.start('build-css');//编译less并压缩css文件
     })
 });
+
+//gulp使用: gulp watch-css
